@@ -1,0 +1,14 @@
+.header{
+    background-color: orange;
+}
+.nav{
+    background-color: orange!important;
+    margin-left: 10px;
+}
+
+.cotizar{
+    background-image: radial-gradient(circle at 50% 50%, #ffef66 0, #d8c755 50%, #ada045 100%);
+    color:white;
+    font-size: 30px;
+    border-radius: 5%;
+}
