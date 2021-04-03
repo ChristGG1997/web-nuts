@@ -16,3 +16,6 @@
                 </nav>
             </div>
         </div>
+        
+fonts: h1, h2, h3, botones => Tw Cen MT Condensed Extra Bold (Regular),
+p, forms => Poppins (Regular)

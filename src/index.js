@@ -2,12 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './assets/css/index.css';
 import App from './App';
-import Nav from './Nav/nav';
+import Nav from './components/Navbar/nav';
+import Point from './components/IndexPoint/point';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
     <Nav />
+    <Point />
     <App />
   </React.StrictMode>,
   document.getElementById('root')

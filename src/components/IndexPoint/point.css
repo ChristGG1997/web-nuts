@@ -1,0 +1,21 @@
+
+.IndexPoint{
+    background-image: url('../../assets/images/slindex.png') ;
+    background-position: center;
+    height: 800px;
+}
+
+.Ciudad{
+    padding-top: 5%;
+    height: auto;
+    width: 90%;
+    display:block;
+    margin:auto;
+}
+
+.Reunion{
+    margin-top: -100px!important;
+    height: auto;
+    display:block;
+    margin:auto;
+}
