@@ -5,6 +5,17 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: white ;
+}
+
+/* Modificar Barra Scroll */
+body::-webkit-scrollbar{
+  width: 10px;
+  background-color: transparent;
+}
+body::-webkit-scrollbar-thumb{
+  background: #f86424;
+  border-radius: 10px;
 }
 
 code {
