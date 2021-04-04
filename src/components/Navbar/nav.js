@@ -14,16 +14,16 @@ function Nav(){
             <div class="navbar-collapse">
                 <ul class="navbar-nav m-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Inicio </a>
+                        <a class="nav-link" href="/">Inicio </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Servicios </a>
+                        <a class="nav-link" href="/servicios">Servicios </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contacto </a>
+                        <a class="nav-link" href="/contacto">Contacto </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Sobre Nosotros </a>
+                        <a class="nav-link" href="/sobre_nosotros">Sobre Nosotros </a>
                     </li>
                 </ul>
             </div>
