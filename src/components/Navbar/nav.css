@@ -15,6 +15,7 @@ h1 , h2 ,h3 , button {
 .nav{
     /* background-color: #F15A24!important; */
     background-image: url('../../assets/images/NavBgP.PNG');
+    background-size: cover;
     margin-left: 10px;
 }
 
@@ -27,9 +28,9 @@ h1 , h2 ,h3 , button {
 .cotizar{
     background-image: url('../../assets/images/bts.png');
     background-position: center;
-    -webkit-box-shadow: 10px 14px 24px 1px rgba(0,0,0,0.57);
-    -moz-box-shadow: 10px 14px 24px 1px rgba(0,0,0,0.57);
-    box-shadow: 10px 14px 24px 1px rgba(0,0,0,0.57);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.41);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.41);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.41);
     color:white;
     padding: 15px;
     font-size: 25px;

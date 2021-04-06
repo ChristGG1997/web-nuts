@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './assets/css/index.css';
 import App from './App';
 import Nav from './components/Navbar/nav';
+import Point from './components/IndexPoint/point';
 import reportWebVitals from './reportWebVitals';
 import Copyright from './components/Footer/Copyright'
 

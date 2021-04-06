@@ -1,8 +1,10 @@
 
 .IndexPoint{
-    background-image: url('../../assets/images/slindex.png') ;
+    background-image: url('../../assets/images/Slide.jpg') ;
     background-position: center;
-    height: 800px;
+    /* Arbo bajo*/
+    clip-path: polygon(50% 0%, 100% 0, 100% 43%, 100% 100%, 60% 80%, 40% 80%, 0 100%, 0% 43%, 0 0);
+    height: 1050px;
 }
 
 .Ciudad{
