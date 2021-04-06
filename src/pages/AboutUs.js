@@ -1,9 +1,12 @@
 import React from 'react'
+import '../assets/css/AboutUs.css'
+import About from '../components/AboutUsInfo/About'
 
-const AboutUs = () => {
-    return (
-        <div>
-            <h1>Sobre Nosotros</h1>
+function AboutUs(){
+
+    return(
+        <div className="">
+            <About />
         </div>
     )
 }
