@@ -1,9 +1,14 @@
 import React from 'react'
+import '../assets/css/Services.css'
+import NuestroServicios from '../components/NuestroServicios/NuestrosServicios'
+import Portafolio from '../components/Portafolio/Portafolio'
 
-const Services = () => {
-    return (
-        <div>
-            <h1>Servicios</h1>
+function Services(){
+
+    return(
+        <div className="">
+            <NuestroServicios />
+            <Portafolio />
         </div>
     )
 }

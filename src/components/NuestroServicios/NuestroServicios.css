@@ -1,0 +1,10 @@
+
+.backgroundServices{
+    background-image: url('../../assets/images/Slide.jpg') ;
+    background-position: center;
+    color: #fff;
+}
+
+.backGray {
+    background-color: #e6e6ee;
+}
