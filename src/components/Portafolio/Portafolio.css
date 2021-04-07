@@ -1,0 +1,19 @@
+
+
+.titlePort > h1{
+    font-size: 80px;
+}
+
+.titlePort > img {
+    width: 100px;
+    height: 80px;
+}
+
+.backGray {
+    background-color: #e6e6ee;
+}
+
+.imagesPort{
+    width: 450px;
+    height: 320px;
+}
